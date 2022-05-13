@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    String r;
     EditText edit1, edit2;
     int [] btnNumid = {R.id.btn0, R.id.btn1, R.id.btn2, R.id.btn3, R.id.btn4,
                         R.id.btn5, R.id.btn6, R.id.btn7, R.id.btn8, R.id.btn9};
